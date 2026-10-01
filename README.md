@@ -51,6 +51,14 @@ Also used in **Model Lab**: SQLite/Turso, MySQL, Streamlit, TanStack Query, and 
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Ahsan-Umair"><img src="https://streak-stats.demolab.com/?user=Ahsan-Umair&amp;hide_border=true&amp;border_radius=10&amp;background=191927&amp;stroke=8493AA&amp;ring=60A5FA&amp;fire=60A5FA&amp;currStreakNum=C084FC&amp;sideNums=60A5FA&amp;currStreakLabel=C084FC&amp;sideLabels=60A5FA&amp;dates=2DD4BF&amp;timezone=Asia%2FKarachi" alt="Ahsan Umair’s total contributions, current daily streak, and longest daily streak" width="760" /></a>
+</p>
+
+---
+
 ## Coding Practice
 
 I practice problem-solving on [LeetCode — AHSAN_UMAIR](https://leetcode.com/u/AHSAN_UMAIR/).
