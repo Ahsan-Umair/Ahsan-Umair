@@ -8,4 +8,6 @@ Technology logos: [Simple Icons](https://github.com/simple-icons/simple-icons), 
 
 Project descriptions were adapted from Ahsan-Umair's public project READMEs on 1 October 2026.
 
+Project previews added on 2 October 2026: `model-lab-preview.jpg` is an unaltered browser capture of the live Model Lab dashboard, showing an empty workspace. `churn-accuracy.png` is the original PNG output from the accuracy-plot cell of [the customer churn ANN notebook](https://github.com/Ahsan-Umair/Deep-Learning/blob/main/Projects/Customer%20Churn%20Predictor%20ANN/Cusstomer%20Churn%20ANN.ipynb). Its blue and orange curves correspond to training and validation accuracy. The images are hidden in native GitHub collapsible sections until opened and link to their full-size files.
+
 The Contribution Signal design and SVG animation were created for this profile. Counts are read from GitHub's public contribution calendar, including anonymously shared private activity. Daily streaks use consecutive nonzero calendar days; the current day remains in progress until tomorrow. The scheduled update uses the included Python script and an official GitHub Actions checkout pinned to a commit.
