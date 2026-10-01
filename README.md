@@ -30,7 +30,7 @@ I learn through hands-on projects in machine learning, deep learning, and full-s
 ## Tech Stack
 
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="Python, JavaScript, TypeScript, HTML5, CSS, React, Next.js, Tailwind CSS, FastAPI, Node.js, NumPy, pandas, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, and Jupyter." width="900" />
+  <img src="assets/tech-stack.svg" alt="Python, JavaScript, TypeScript, HTML5, CSS, React, Next.js, Tailwind CSS, FastAPI, Node.js, NumPy, pandas, scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn, and Jupyter." width="900" />
 </p>
 
 Also used in **Model Lab**: SQLite/Turso, MySQL, Streamlit, TanStack Query, and Recharts.
