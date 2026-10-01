@@ -47,6 +47,34 @@ Also used in **Model Lab**: SQLite/Turso, MySQL, Streamlit, TanStack Query, and 
 | [Customer Segmentation](https://github.com/Ahsan-Umair/Customer-Segmentation-ML-Project) | Compares K-means, hierarchical clustering, and DBSCAN to explore customer purchasing behavior. |
 | [Fraud Anomaly Detection](https://github.com/Ahsan-Umair/Anomaly-Fraud-Detection-Unsupervised-ML-Project) | An educational Isolation Forest experiment for detecting unusual credit-card transactions. |
 
+<details>
+<summary><strong>View Model Lab screenshot</strong> · workspace dashboard</summary>
+
+<p>A look at the live Model Lab interface. This capture shows the workspace before any experiments were logged.</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ahsan-Umair/Ahsan-Umair/main/assets/model-lab-preview.jpg"><img src="assets/model-lab-preview.jpg" alt="Model Lab dashboard with project, model-version and experiment-run summaries in an empty workspace." width="560" /></a>
+  <br /><sub>Click the screenshot to open the full-size image.</sub>
+</p>
+
+<p><a href="https://model-lab-rho.vercel.app/">Open app (sign-in required)</a> · <a href="https://github.com/Ahsan-Umair/ml-tracker">View source code</a></p>
+
+</details>
+
+<details>
+<summary><strong>View Deep Learning training chart</strong> · customer churn ANN</summary>
+
+<p>The original accuracy plot recorded in the customer churn notebook. Blue shows training accuracy; orange shows validation accuracy across epochs.</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Ahsan-Umair/Ahsan-Umair/main/assets/churn-accuracy.png"><img src="assets/churn-accuracy.png" alt="Original customer churn ANN plot showing training accuracy in blue and validation accuracy in orange across training epochs." width="450" /></a>
+  <br /><sub>Click the chart to open the full-size image.</sub>
+</p>
+
+<p><a href="https://github.com/Ahsan-Umair/Deep-Learning/blob/main/Projects/Customer%20Churn%20Predictor%20ANN/Cusstomer%20Churn%20ANN.ipynb">View notebook</a> · <a href="https://github.com/Ahsan-Umair/Deep-Learning">View source code</a></p>
+
+</details>
+
 [Explore all my repositories →](https://github.com/Ahsan-Umair?tab=repositories)
 
 ---
