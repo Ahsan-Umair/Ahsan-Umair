@@ -1,0 +1,42 @@
+name: Refresh Contribution Signal
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_contribution_signal.py'
+      - 'scripts/test_contribution_signal.py'
+      - '.github/workflows/contribution-signal.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-signal
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Verify contribution calculations
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Read shared GitHub counts and render animated card
+        run: python3 scripts/build_contribution_signal.py
+      - name: Publish only changed contribution data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contribution-signal.svg assets/contributions.json
+          if git diff --cached --quiet; then
+            echo 'Contribution data is unchanged.'
+            exit 0
+          fi
+          git commit -m 'Refresh contribution signal'
+          git push
