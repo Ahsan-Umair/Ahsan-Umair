@@ -48,3 +48,19 @@ Also used in **Model Lab**: SQLite/Turso, MySQL, Streamlit, TanStack Query, and 
 | [Fraud Anomaly Detection](https://github.com/Ahsan-Umair/Anomaly-Fraud-Detection-Unsupervised-ML-Project) | An educational Isolation Forest experiment for detecting unusual credit-card transactions. |
 
 [Explore all my repositories →](https://github.com/Ahsan-Umair?tab=repositories)
+
+---
+
+## Coding Practice
+
+I practice problem-solving on [LeetCode — AHSAN_UMAIR](https://leetcode.com/u/AHSAN_UMAIR/).
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahsan-umair-5647b62b5/"><img src="assets/linkedin.svg" alt="Connect with Ahsan Umair on LinkedIn" width="170" /></a>
+  <a href="https://leetcode.com/u/AHSAN_UMAIR/"><img src="assets/leetcode.svg" alt="AHSAN_UMAIR on LeetCode" width="170" /></a>
+  <a href="mailto:ahsanumair102@gmail.com"><img src="assets/email.svg" alt="Email Ahsan Umair" width="170" /></a>
+</p>
+
+<p align="center"><a href="mailto:ahsanumair102@gmail.com">ahsanumair102@gmail.com</a></p>
