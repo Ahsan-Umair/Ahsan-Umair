@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal-banner.png" alt="Ahsan Umair: AI and ML engineer, sixth-semester Computer Science student at the University of Lahore. Interests: deep learning, agentic AI and LLMs. Email: ahsanumair102@gmail.com." width="1100" />
+  <img src="assets/identity-signal.svg" alt="Ahsan Umair's animated Identity Signal: unchanged cyan portrait, AI and ML engineer, sixth-semester Computer Science student at the University of Lahore. Interests: deep learning, agentic AI and LLMs. Email: ahsanumair102@gmail.com." width="1100" />
 </p>
 
 ---
