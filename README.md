@@ -34,3 +34,17 @@ I learn through hands-on projects in machine learning, deep learning, and full-s
 </p>
 
 Also used in **Model Lab**: SQLite/Turso, MySQL, Streamlit, TanStack Query, and Recharts.
+
+---
+
+## Featured Projects
+
+| Project | What it does |
+| --- | --- |
+| [Model Lab](https://github.com/Ahsan-Umair/ml-tracker) | A personal ML model registry and experiment tracker built with Next.js, React, TypeScript, Tailwind CSS, FastAPI, and SQLite/Turso. |
+| [Deep Learning](https://github.com/Ahsan-Umair/Deep-Learning) | Perceptron exercises and TensorFlow/Keras neural-network projects for customer churn and graduate admission prediction. |
+| [Spam Email Detector](https://github.com/Ahsan-Umair/Spam-Email-Detector-ML-Project) | Text classification using TF-IDF, logistic regression, and random forests. |
+| [Customer Segmentation](https://github.com/Ahsan-Umair/Customer-Segmentation-ML-Project) | Compares K-means, hierarchical clustering, and DBSCAN to explore customer purchasing behavior. |
+| [Fraud Anomaly Detection](https://github.com/Ahsan-Umair/Anomaly-Fraud-Detection-Unsupervised-ML-Project) | An educational Isolation Forest experiment for detecting unusual credit-card transactions. |
+
+[Explore all my repositories →](https://github.com/Ahsan-Umair?tab=repositories)
