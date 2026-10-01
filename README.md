@@ -51,10 +51,10 @@ Also used in **Model Lab**: SQLite/Turso, MySQL, Streamlit, TanStack Query, and 
 
 ---
 
-## GitHub Stats
+## Contribution Signal
 
 <p align="center">
-  <a href="https://github.com/Ahsan-Umair"><img src="https://streak-stats.demolab.com/?user=Ahsan-Umair&amp;hide_border=true&amp;border_radius=10&amp;background=191927&amp;stroke=8493AA&amp;ring=60A5FA&amp;fire=60A5FA&amp;currStreakNum=C084FC&amp;sideNums=60A5FA&amp;currStreakLabel=C084FC&amp;sideLabels=60A5FA&amp;dates=2DD4BF&amp;timezone=Asia%2FKarachi" alt="Ahsan Umair’s total contributions, current daily streak, and longest daily streak" width="760" /></a>
+  <a href="https://github.com/Ahsan-Umair#contribution-activity"><img src="assets/contribution-signal.svg" alt="Animated contribution dashboard: all-time contributions, current and longest daily streaks, and a 42-day activity timeline. Includes anonymous private activity shared on GitHub." width="1100" /></a>
 </p>
 
 ---
